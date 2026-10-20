@@ -1,6 +1,0 @@
-{
-  "name": "RoboSim 17 - K1 Humanoid Robotics Lab",
-  "description": "3D 17-DOF humanoid robot simulator with real-time physics, Robosen K1 styling, visual block coding, servo sliders, and 10 interactive progression missions for Year 8 & 9 robotics education.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
